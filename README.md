@@ -33,7 +33,7 @@ Just type in your sentence, and Sabreena polishes it beautifully — making comm
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/translator-agent.git
+   git clone https://github.com/sabreenadaniyal/translator-agent.git
    cd translator-agent
 
 ---
