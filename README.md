@@ -1,15 +1,10 @@
 # 🧠 Translator Agent – Q4 Assignment 1 (AGENTIC AI)
 
 Welcome to **Quarter 4: AGENTIC AI**!  
-This is the **first assignment** – a smart **Translator Agent** built using Streamlit and Python.
+This is the **first assignment** – a smart **Translator Agent** built using Python.
 
 ---
 
-## 🔗 Live Demo
-
-Click below to try the Translator Agent live:
-
-👉 [Use the Translator Agent]()  
 
 ## 📘 Project Description
 
@@ -22,7 +17,7 @@ Just type in your sentence, and Sabreena polishes it beautifully — making comm
 
 - 💬 Translate informal or broken English into fluent English
 - ⚡ Real-time translation using AI
-- 🎨 Clean and user-friendly interface with Streamlit
+- 🎨 Clean and user-friendly 
 - 📄 Supports multi-line input
 
 ---
@@ -30,7 +25,6 @@ Just type in your sentence, and Sabreena polishes it beautifully — making comm
 ## 🛠️ Tech Stack
 
 - **Python 3**
-- **Streamlit**
 - **OpenAI API** 
 
 ---
